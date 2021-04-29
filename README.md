@@ -1,2 +1,2 @@
 # AplicationFiguras
-Nueva aplicaciÃ³n
+Nueva aplicación
