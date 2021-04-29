@@ -1,2 +1,0 @@
-# AplicationFiguras
-Nueva aplicación
